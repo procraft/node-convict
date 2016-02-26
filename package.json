@@ -39,7 +39,7 @@
   "dependencies": {
     "depd": "1.1.0",
     "moment": "2.11.2",
-    "validator": "4.6.1",
+    "validator": "4.6.1"
   },
   "devDependencies": {
     "coveralls": "2.11.6",
